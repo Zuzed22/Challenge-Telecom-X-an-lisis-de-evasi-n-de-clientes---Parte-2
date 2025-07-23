@@ -86,5 +86,5 @@ pip install -r requirements.txt
 jupyter notebook telecom_churn_ml_prediction.ipynb
 
 
-
+Este proyecto fue desarrollado por [Zuleika González].
 
