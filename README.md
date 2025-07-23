@@ -76,14 +76,14 @@ Los mejores modelos alcanzaron una precisión (Accuracy) superior al 85%, siendo
 
 ## 📝 Cómo usar este repositorio
 
-1. Clona el repositorio:
-   git clone https://github.com/tuusuario/xxx.git
+- Clona el repositorio:
+   git clone https://github.com/Zuzed22/Challenge-Telecom-X-an-lisis-de-evasi-n-de-clientes---Parte-2.git
 
 - Instala los requerimientos:
 pip install -r requirements.txt
 
 - Ejecuta el notebook en Jupyter:
-jupyter notebook telecom_churn_ml_prediction.ipynb
+jupyter notebook TelecomX_LATAM_parte2.ipynb
 
 
 Este proyecto fue desarrollado por [Zuleika González].
