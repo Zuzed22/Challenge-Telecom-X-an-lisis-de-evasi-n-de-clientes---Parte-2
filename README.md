@@ -7,7 +7,7 @@ Este repositorio contiene un proyecto de Machine Learning desarrollado para pred
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## 🤖 Tecnologías utilizadas
 
 - Python 3.10+
 - Pandas, NumPy
@@ -17,7 +17,7 @@ Este repositorio contiene un proyecto de Machine Learning desarrollado para pred
 
 ---
 
-## 📁 Estructura del Proyecto
+## 🗃️ Estructura del Proyecto
 telecom_churn_ml_prediction/
 │
 ├── telecom_churn_ml_prediction.ipynb # Notebook principal del análisis y modelado
@@ -36,7 +36,7 @@ telecom_churn_ml_prediction/
 
 ---
 
-## ⚙️ Modelos Entrenados
+## 🖥 Modelos Entrenados
 
 Se evaluaron 7 modelos de clasificación:
 
@@ -58,7 +58,7 @@ Los mejores modelos alcanzaron una precisión (Accuracy) superior al 85%, siendo
 
 ---
 
-## 📊 Variables Más Relevantes
+## 💻 Variables Más Relevantes
 
 - Tipo de contrato (`Contract_Month-to-month`, `Contract_Two year`)
 - Servicios adicionales (`TechSupport`, `OnlineSecurity`)
@@ -67,7 +67,7 @@ Los mejores modelos alcanzaron una precisión (Accuracy) superior al 85%, siendo
 
 ---
 
-## 🧠 Conclusiones
+## 🧭 Conclusiones
 
 - La mayoría de los clientes que desertan tienen contrato mensual y no usan servicios de soporte técnico.
 - El modelo puede integrarse en campañas de retención para actuar antes de que el cliente cancele.
